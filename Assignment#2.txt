@@ -1,0 +1,4 @@
+I was not able to upload the pythonsupermaio file so I uploaded my screenshotSender.py only but you can see it in the video that it works as intended.
+
+You tube Video: https://youtu.be/r4-slK8kLYk
+GitHub : https://github.com/Gagandeepsingh007/Assignment_2-.git
