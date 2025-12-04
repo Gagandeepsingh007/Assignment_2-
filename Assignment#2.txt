@@ -1,4 +1,6 @@
 I was not able to upload the pythonsupermaio file so I uploaded my screenshotSender.py only but you can see it in the video that it works as intended.
 
+The trojan malware in in the main.py file i have uploaded in the repository. This main.py is in the source folder of the original PythonSuperMario folder. You might need to be in a virtual python environment to run it properly and install mss, pillow, and requests before running the file and i also have included a main.spec file as shown in the video to make an executable file.
+
 You tube Video: https://youtu.be/r4-slK8kLYk
 GitHub : https://github.com/Gagandeepsingh007/Assignment_2-.git
